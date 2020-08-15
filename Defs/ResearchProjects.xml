@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+<!--============== Manual ==============-->
+
+<ResearchProjectDef>
+    <defName>JDSOldSithTrooperSet</defName>
+    <label>Old Sith Trooper Armor set</label>
+    <description>...</description>
+<baseCost>2500</baseCost>
+<tab>JDSTheForgetab</tab>
+<techLevel>Spacer</techLevel>
+<researchViewY>4</researchViewY>	<!-- up and down-->
+<researchViewX>1</researchViewX>	<!-- left and right -->
+		<prerequisites>
+			<li>TheBlastForgeRelics</li>
+		</prerequisites>
+</ResearchProjectDef>
+
+</Defs>
